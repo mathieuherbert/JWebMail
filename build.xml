@@ -30,7 +30,7 @@ limitations under the License.
 	<property name="javac.debug" value="${debug}" />
 	<property name="javac.optimize" value="true" />
 	<property name="javac.deprecation" value="false" />
-	<property name="javac.targetver" value="1.5" />
+	<property name="javac.targetver" value="1.7" />
 	<property name="javac.includeantruntime" value="false" />
 
 	<!-- This sets the JRE version which will be required by USERS of
